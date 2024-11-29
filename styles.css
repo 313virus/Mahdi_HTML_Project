@@ -12,6 +12,7 @@ body {
     color: #ffffff;
 }
 
+
 /* Header Styling */
 .header {
     background-color: #121212;
@@ -605,30 +606,7 @@ body {
     font-size: 1em;
     color: #b3b3b3;
 }
-/* Video Section Styles */
-.video-section {
-    background-color: #121212;
-    color: white;
-    padding: 50px 5%;
-    text-align: center;
-}
 
-.video-container h2 {
-    font-size: 2em;
-    margin-bottom: 10px;
-}
-
-.video-container p {
-    font-size: 1.2em;
-    margin-bottom: 20px;
-}
-
-.video-embed iframe {
-    width: 100%;
-    max-width: 800px;
-    height: 450px;
-    border: none;
-}
 /* About Section Styling */
 .about-section {
     background-color: #1c1c1c; /* Dark background */
@@ -677,4 +655,3 @@ body {
     background-color: #121212; /* Dark background */
     color: #ffffff;
 }
-
